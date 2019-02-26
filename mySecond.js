@@ -1,8 +1,8 @@
 var b = "123"
 
-function b (){
+function c (){
   console.log(b)
 }
 
 
-b()
+c()
