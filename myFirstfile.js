@@ -6,3 +6,7 @@ function c(){
 }
 
 c()
+
+b()
+
+d()
