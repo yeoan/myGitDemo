@@ -6,3 +6,5 @@ function c (){
 
 
 c()
+
+b()
