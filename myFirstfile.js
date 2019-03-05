@@ -5,8 +5,8 @@ function c(){
   console.log(a)
 }
 
-function d(){
-  console.log('d')
+function yao(){
+  console.log('yao')
 }
 
 c()
