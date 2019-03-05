@@ -5,5 +5,9 @@ function c(){
   console.log(a)
 }
 
+function d(){
+  console.log('d')
+}
+
 c()
 e()
