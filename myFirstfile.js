@@ -7,3 +7,7 @@ function c(){
 
 c()
 e()
+function Rowlingjackson(){
+
+  console.log("湘平");
+}
